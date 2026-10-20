@@ -1,0 +1,7 @@
+5
+Medicine 3 40
+Food 4 50
+Water 2 30
+Blanket 5 60
+FirstAid 1 20
+10

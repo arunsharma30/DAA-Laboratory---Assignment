@@ -1,0 +1,1001 @@
+title,rating,release_year,popularity
+Back to the Future 10,10.0,1995,522195
+Oldboy 7,10.0,2016,131989
+Once Upon a Time in Hollywood 14,10.0,1993,159845
+Black Panther 5,10.0,2017,400764
+The Dark Knight 8,10.0,1996,252427
+Back to the Future 1,10.0,2004,77490
+Gladiator 4,9.9,2000,530632
+Alien 3,9.9,1995,323131
+Fight Club 4,9.9,2013,523260
+Inception 5,9.9,2011,149795
+Blade Runner 2049 3,9.9,2015,428368
+Avengers: Endgame 6,9.9,2012,539144
+Whiplash 17,9.9,1999,247446
+The Departed 8,9.9,2006,899630
+City of God 12,9.9,1985,705827
+Blade Runner 2049 6,9.9,1992,554630
+Knives Out 7,9.9,1994,93191
+Knives Out 6,9.9,1993,911799
+Gladiator 10,9.8,2015,914324
+Goodfellas 20,9.8,2021,354186
+Forrest Gump 10,9.8,1991,801688
+A Beautiful Mind 4,9.8,2020,948377
+The Shawshank Redemption 10,9.8,1987,479556
+Django Unchained 13,9.8,1986,743015
+Knives Out 3,9.8,1998,522467
+Blade Runner 2049 8,9.8,2012,602594
+The Dark Knight 17,9.8,2001,654071
+Oldboy 6,9.8,2003,512539
+Blade Runner 2049 5,9.8,2008,141711
+The Pianist 4,9.8,2024,496025
+The Shawshank Redemption 6,9.8,2002,504713
+The Departed 15,9.8,2011,175689
+The Green Mile 1,9.8,1982,184166
+Se7en 4,9.8,1982,268702
+Knives Out 1,9.8,2016,772841
+Interstellar 3,9.8,1989,398516
+The Big Short 10,9.7,1990,845084
+Whiplash 20,9.7,2021,381678
+Up 19,9.7,2003,266756
+La La Land 16,9.7,1989,653294
+Alien 17,9.7,2006,883355
+Blade Runner 2049 4,9.7,1999,453439
+The Lord of the Rings: The Return of the King 2,9.7,2013,950833
+La La Land 7,9.7,2012,946214
+Braveheart 17,9.7,2006,324029
+The Departed 17,9.7,2016,399659
+Logan 3,9.7,2008,673522
+La La Land 6,9.7,1987,477382
+Terminator 2: Judgment Day 4,9.7,1981,251599
+The Green Mile 9,9.7,1985,868607
+The Departed 4,9.7,1995,886391
+Se7en 14,9.6,2016,162445
+Alien 12,9.6,2016,707993
+Up 8,9.6,1996,161466
+City of God 6,9.6,1982,285811
+Braveheart 7,9.6,2005,437292
+The Prestige 7,9.6,1989,835772
+Back to the Future 17,9.6,1980,573866
+The Big Short 15,9.6,1985,131744
+Spirited Away 3,9.6,2024,345541
+The Truman Show 15,9.5,1993,942284
+Parasite 7,9.5,1990,415239
+Interstellar 18,9.5,2008,333937
+1917 15,9.5,1992,963568
+The Lion King 10,9.5,1995,442005
+Knives Out 15,9.5,2020,823793
+Once Upon a Time in Hollywood 9,9.5,2007,260582
+The Wolf of Wall Street 5,9.5,1995,248766
+The Shining 17,9.5,2008,613831
+Braveheart 1,9.5,1992,623133
+Blade Runner 2049 7,9.5,1998,65045
+1917 8,9.5,1997,666061
+Inception 10,9.5,2001,729853
+The Lion King 1,9.4,1986,840169
+Knives Out 17,9.4,2018,57846
+Interstellar 15,9.4,1984,310191
+The Empire Strikes Back 17,9.4,2018,843608
+The Dark Knight 4,9.4,1994,879059
+Pulp Fiction 2,9.4,1998,169870
+Black Panther 1,9.4,2020,226147
+Inception 13,9.4,2000,789000
+The Pianist 15,9.4,2022,619195
+Inception 15,9.3,1993,904266
+The Green Mile 6,9.3,2015,298117
+Interstellar 5,9.3,2022,320037
+Spirited Away 2,9.3,1987,524457
+Braveheart 13,9.3,1997,651130
+Se7en 12,9.3,2020,878494
+Avengers: Infinity War 18,9.3,1986,264708
+Interstellar 8,9.2,2023,360553
+WALL·E 11,9.2,2023,138920
+Joker 13,9.2,1986,746560
+Alien 2,9.2,2005,715512
+Gladiator 11,9.2,2006,525524
+Black Panther 9,9.2,1994,81128
+Up 6,9.2,2009,250333
+Alien 19,9.2,1984,711140
+Back to the Future 16,9.2,2006,877713
+The Godfather 1,9.2,1998,309991
+The Prestige 9,9.2,2022,403256
+The Matrix 13,9.2,1991,491945
+The Dark Knight 19,9.2,2015,735058
+Whiplash 9,9.1,2018,361747
+Pulp Fiction 19,9.1,1999,944790
+The Wolf of Wall Street 14,9.1,2015,313912
+The Matrix 4,9.1,1980,365233
+The Silence of the Lambs 15,9.1,2007,661983
+The Pianist 11,9.1,1990,287030
+Avengers: Infinity War 14,9.0,1992,535228
+Back to the Future 14,9.0,1988,990593
+The Truman Show 9,9.0,2021,968195
+Joker 18,9.0,1990,628531
+City of God 4,9.0,2014,811344
+The Truman Show 7,9.0,2005,553191
+Whiplash 10,9.0,1980,430582
+Up 20,9.0,1987,21517
+Logan 12,9.0,2012,834655
+Pulp Fiction 12,9.0,2004,113773
+The Truman Show 3,9.0,2020,482902
+The Dark Knight 13,8.9,1987,408432
+Logan 13,8.9,2023,802416
+Gladiator 8,8.9,1990,9409
+Terminator 2: Judgment Day 16,8.9,1985,197246
+Parasite 6,8.9,2010,823145
+Django Unchained 4,8.9,2017,43518
+Black Panther 17,8.9,2013,382810
+City of God 15,8.9,2018,309053
+The Green Mile 20,8.9,2006,13518
+City of God 2,8.9,1986,389467
+The Shining 1,8.9,2002,78323
+Terminator 2: Judgment Day 13,8.9,1980,683667
+La La Land 20,8.9,2013,705478
+The Pianist 20,8.9,2001,420602
+Forrest Gump 6,8.9,1981,3809
+The Godfather 6,8.8,2014,697851
+Gladiator 3,8.8,1989,423624
+Avengers: Infinity War 10,8.8,1998,674839
+Braveheart 8,8.8,2020,878901
+The Silence of the Lambs 7,8.8,2013,441324
+Goodfellas 18,8.8,1993,958587
+The Godfather 20,8.8,2023,195597
+Once Upon a Time in Hollywood 1,8.8,1987,149851
+Parasite 19,8.8,1990,368978
+Fight Club 11,8.8,1985,800257
+Black Panther 14,8.8,2018,518939
+Se7en 11,8.8,2009,257447
+The Empire Strikes Back 12,8.8,2000,317315
+Up 15,8.8,2019,451190
+Forrest Gump 17,8.8,1996,306128
+Coco 7,8.8,1996,969435
+Terminator 2: Judgment Day 15,8.8,2016,654103
+Back to the Future 11,8.7,1990,332837
+The Empire Strikes Back 4,8.7,1991,754596
+The Godfather 17,8.7,2007,218479
+Alien 18,8.7,2019,279999
+The Big Short 12,8.7,2010,736245
+The Wolf of Wall Street 4,8.7,2008,228483
+Oldboy 11,8.7,1998,148481
+Black Panther 10,8.7,2021,439080
+Braveheart 15,8.7,1988,191460
+Goodfellas 8,8.7,2011,599171
+The Prestige 12,8.7,2009,810423
+The Lord of the Rings: The Return of the King 10,8.7,2000,162834
+The Lord of the Rings: The Return of the King 18,8.6,1984,114038
+Oldboy 4,8.6,2008,469235
+Joker 9,8.6,2015,440552
+A Beautiful Mind 18,8.6,2016,192021
+Black Panther 19,8.6,2005,243029
+The Matrix 3,8.6,1983,307843
+Alien 5,8.6,2018,442072
+The Godfather 2,8.6,1982,785193
+Inside Out 1,8.6,2002,467171
+The Empire Strikes Back 16,8.6,1992,291070
+Whiplash 8,8.5,2003,113030
+Black Panther 7,8.5,2000,618503
+1917 5,8.5,1982,992469
+Avengers: Infinity War 16,8.5,2020,795758
+Oldboy 17,8.5,1996,81982
+The Godfather 7,8.5,2015,925918
+Avengers: Infinity War 6,8.5,1994,192830
+Django Unchained 6,8.4,1997,541652
+Avengers: Endgame 20,8.4,2013,249519
+Parasite 20,8.4,2017,51335
+City of God 3,8.4,1980,424996
+Se7en 15,8.4,2024,331031
+Whiplash 11,8.4,1984,405359
+1917 12,8.4,2004,531887
+WALL·E 6,8.4,1993,42302
+The Wolf of Wall Street 17,8.4,2015,885721
+Django Unchained 14,8.4,1990,839572
+Coco 20,8.4,2001,698488
+The Godfather 18,8.4,2023,562280
+The Dark Knight 9,8.4,1991,657164
+Avengers: Infinity War 20,8.3,1980,495107
+Back to the Future 13,8.3,1991,568516
+Alien 10,8.3,2017,516138
+The Matrix 15,8.3,2001,632749
+Avengers: Infinity War 1,8.3,1993,599913
+Goodfellas 11,8.3,1985,383550
+Avengers: Endgame 13,8.3,1999,258992
+Inside Out 3,8.3,2004,238634
+Fight Club 1,8.3,1986,192100
+City of God 14,8.3,1992,321613
+Back to the Future 7,8.3,1981,233201
+Parasite 9,8.2,2020,920289
+Avengers: Endgame 7,8.2,2002,465790
+Blade Runner 2049 2,8.2,2013,783626
+The Dark Knight 20,8.2,2011,318907
+Parasite 10,8.2,1980,863657
+The Green Mile 2,8.2,1995,339689
+Spirited Away 15,8.2,2002,648605
+Saving Private Ryan 15,8.2,2021,635247
+La La Land 18,8.2,1992,397141
+Forrest Gump 8,8.2,1984,200242
+Spirited Away 4,8.2,1991,395342
+Interstellar 1,8.2,2002,588647
+The Matrix 12,8.2,2018,461099
+Back to the Future 2,8.1,2018,555802
+Joker 5,8.1,2021,718153
+Knives Out 10,8.1,1994,880641
+Once Upon a Time in Hollywood 6,8.1,2009,12569
+The Godfather 13,8.1,1986,275866
+Spirited Away 9,8.1,1985,936975
+Coco 5,8.1,2017,5501
+Joker 20,8.1,1982,338929
+The Matrix 5,8.1,2005,998278
+Interstellar 7,8.1,2006,832849
+Parasite 14,8.1,2019,812469
+Interstellar 16,8.1,2007,938171
+Braveheart 2,8.1,2005,677770
+Terminator 2: Judgment Day 3,8.0,2009,601213
+City of God 17,8.0,1987,641971
+Se7en 18,8.0,1982,744595
+The Green Mile 18,8.0,2020,960903
+Back to the Future 5,8.0,2024,575837
+Parasite 12,8.0,1995,336986
+Alien 13,8.0,1997,925504
+Fight Club 3,8.0,2004,63735
+The Matrix 7,8.0,1994,661684
+The Prestige 18,7.9,2018,655787
+Spirited Away 8,7.9,1987,914077
+The Pianist 6,7.9,2010,611233
+Inside Out 8,7.9,1981,233660
+1917 20,7.9,2012,60496
+The Wolf of Wall Street 16,7.9,2024,281063
+Coco 10,7.8,1995,731820
+The Shawshank Redemption 20,7.8,1988,402005
+The Big Short 3,7.8,1983,982447
+The Truman Show 17,7.8,2008,302221
+Avengers: Infinity War 15,7.8,2002,536592
+Up 4,7.8,1985,658720
+Oldboy 16,7.8,1999,991077
+The Pianist 18,7.8,2013,774128
+The Silence of the Lambs 13,7.8,1991,867278
+Once Upon a Time in Hollywood 13,7.8,1996,203009
+1917 2,7.8,1982,940126
+Spirited Away 20,7.8,2001,367300
+Up 13,7.7,1992,585673
+Braveheart 16,7.7,1993,827902
+The Lion King 7,7.7,1987,329808
+A Beautiful Mind 11,7.7,2004,589538
+The Empire Strikes Back 3,7.7,2023,561150
+The Prestige 3,7.7,1982,307168
+Fight Club 17,7.6,1982,871721
+Forrest Gump 16,7.6,2003,434401
+Goodfellas 14,7.6,2002,736794
+Django Unchained 19,7.6,2020,459009
+The Pianist 10,7.6,1981,937027
+La La Land 10,7.6,2011,856241
+Up 11,7.6,2013,841640
+The Green Mile 19,7.6,2023,600238
+Alien 16,7.5,1984,813619
+The Shining 2,7.5,2004,401665
+The Wolf of Wall Street 13,7.5,2007,106406
+Terminator 2: Judgment Day 17,7.5,2020,435053
+Avengers: Endgame 18,7.5,1987,968792
+Avengers: Endgame 9,7.5,2016,680375
+Braveheart 11,7.5,2023,128069
+Django Unchained 5,7.5,2006,63221
+Blade Runner 2049 15,7.5,1981,880979
+La La Land 14,7.5,2001,684903
+Inception 7,7.5,2006,528499
+Django Unchained 11,7.5,2005,69678
+Knives Out 18,7.4,2014,771081
+Once Upon a Time in Hollywood 15,7.4,2007,16100
+Goodfellas 10,7.4,2007,728014
+Up 10,7.4,2014,544145
+Goodfellas 4,7.4,2019,556263
+The Lion King 8,7.3,2022,400545
+Braveheart 6,7.3,2001,114294
+The Silence of the Lambs 17,7.3,1988,690310
+Se7en 20,7.3,1990,216128
+Knives Out 5,7.3,1998,582367
+The Shining 20,7.2,2013,152472
+The Lion King 2,7.2,2023,266922
+Coco 11,7.2,2017,971110
+Once Upon a Time in Hollywood 4,7.2,2000,788878
+Goodfellas 2,7.2,2020,66341
+Coco 8,7.2,2001,264287
+Oldboy 19,7.2,2007,635062
+The Green Mile 10,7.2,1993,997248
+Back to the Future 3,7.2,2001,731920
+The Truman Show 1,7.2,2015,954713
+Se7en 16,7.2,1993,603016
+Inception 18,7.2,1989,622793
+The Godfather 5,7.1,2017,218768
+The Pianist 17,7.1,1991,405747
+A Beautiful Mind 14,7.1,1994,964978
+The Truman Show 14,7.1,2013,979551
+Forrest Gump 9,7.0,2014,985046
+Coco 14,7.0,2005,834924
+The Green Mile 11,7.0,1999,349421
+A Beautiful Mind 3,7.0,2005,842365
+The Wolf of Wall Street 1,7.0,1995,508689
+Terminator 2: Judgment Day 6,7.0,1992,615371
+Avengers: Endgame 15,7.0,1989,897846
+Parasite 2,7.0,2007,230485
+Terminator 2: Judgment Day 12,7.0,1981,338058
+WALL·E 17,7.0,1985,601389
+Forrest Gump 12,7.0,1996,70370
+The Big Short 19,7.0,1984,457076
+The Shining 16,7.0,2023,741974
+The Empire Strikes Back 5,7.0,2008,775199
+The Matrix 11,7.0,1992,47025
+The Truman Show 8,7.0,2012,800721
+A Beautiful Mind 17,6.9,1999,846081
+Django Unchained 8,6.9,2010,795414
+Pulp Fiction 1,6.9,2020,862682
+Inception 11,6.9,2015,446148
+Goodfellas 9,6.9,2007,198981
+Avengers: Endgame 8,6.9,2008,792400
+The Wolf of Wall Street 10,6.9,1992,17799
+Saving Private Ryan 20,6.9,1995,298066
+A Beautiful Mind 2,6.9,2022,319895
+Inside Out 19,6.9,1991,188912
+Braveheart 9,6.9,1982,563916
+The Truman Show 13,6.9,1999,402818
+Saving Private Ryan 16,6.8,2009,823892
+The Departed 20,6.8,2011,777379
+Django Unchained 12,6.8,2024,888169
+Avengers: Infinity War 17,6.8,1980,145935
+The Prestige 5,6.8,1996,17038
+The Green Mile 3,6.8,1992,575473
+Coco 19,6.8,2008,118483
+The Truman Show 11,6.8,1980,46258
+The Wolf of Wall Street 6,6.8,1986,547424
+Braveheart 12,6.7,1995,128430
+Django Unchained 10,6.7,1994,941381
+Inside Out 9,6.7,1985,379133
+Spirited Away 17,6.7,1984,315278
+The Lion King 19,6.7,1989,229665
+Terminator 2: Judgment Day 7,6.7,2011,136363
+Spirited Away 5,6.7,2012,917252
+Forrest Gump 4,6.7,2019,360540
+The Shawshank Redemption 3,6.7,2002,558411
+Whiplash 18,6.7,2013,720368
+Interstellar 19,6.7,1989,605872
+The Lord of the Rings: The Return of the King 13,6.7,1990,398912
+WALL·E 19,6.7,1987,683272
+La La Land 17,6.7,1981,406026
+Avengers: Endgame 4,6.7,1989,769626
+The Lion King 6,6.7,1984,871611
+The Silence of the Lambs 2,6.6,2006,665232
+The Prestige 1,6.6,2021,733937
+La La Land 4,6.6,2006,892722
+The Silence of the Lambs 16,6.6,2017,870739
+Saving Private Ryan 9,6.6,1997,557316
+The Godfather 15,6.6,2023,207416
+The Dark Knight 16,6.6,2018,269662
+Gladiator 6,6.6,2012,795618
+Fight Club 15,6.6,2005,438793
+The Shining 7,6.6,1991,220086
+Goodfellas 19,6.5,2010,528420
+Gladiator 13,6.5,2014,19213
+Oldboy 8,6.5,2010,539519
+Terminator 2: Judgment Day 14,6.5,1999,145886
+Fight Club 9,6.5,1983,733465
+The Prestige 20,6.4,2010,355301
+Inside Out 5,6.4,1984,670508
+Up 9,6.4,1982,891950
+Inside Out 18,6.4,2011,175866
+The Wolf of Wall Street 11,6.4,1988,443172
+The Empire Strikes Back 18,6.4,1990,693750
+Forrest Gump 18,6.4,2011,880725
+The Truman Show 19,6.4,1992,155976
+Braveheart 5,6.4,1984,161721
+Inception 3,6.4,1998,21873
+Goodfellas 3,6.4,1999,753780
+Terminator 2: Judgment Day 5,6.4,1998,771995
+Avengers: Endgame 19,6.4,1990,434684
+The Prestige 10,6.4,1981,326828
+The Empire Strikes Back 19,6.4,1980,349793
+Avengers: Infinity War 19,6.3,2005,5252
+Oldboy 5,6.3,2018,138380
+The Silence of the Lambs 8,6.3,1983,524246
+Parasite 13,6.3,1998,335688
+The Wolf of Wall Street 15,6.3,2013,309750
+Fight Club 12,6.3,2017,124120
+The Prestige 15,6.3,1993,435658
+Parasite 1,6.3,2018,94890
+The Dark Knight 10,6.3,2006,417781
+The Godfather 12,6.3,1986,238065
+The Prestige 13,6.3,1991,698812
+Fight Club 16,6.3,2000,905090
+Black Panther 18,6.3,1984,335053
+The Dark Knight 15,6.3,2016,906536
+The Shawshank Redemption 12,6.3,2015,392410
+The Empire Strikes Back 15,6.3,2020,646227
+The Lion King 11,6.3,1996,127858
+Forrest Gump 1,6.2,2014,706735
+Avengers: Infinity War 8,6.2,1995,716104
+Blade Runner 2049 14,6.2,1987,535643
+Pulp Fiction 14,6.2,2024,6835
+The Silence of the Lambs 6,6.2,1994,167141
+Inception 19,6.2,2016,613386
+Up 7,6.2,2023,424557
+Coco 17,6.2,1996,182895
+The Matrix 10,6.2,2002,634228
+Avengers: Endgame 11,6.2,2011,630096
+Forrest Gump 5,6.2,2019,243671
+Saving Private Ryan 19,6.1,1980,702937
+Forrest Gump 7,6.1,1994,964897
+The Dark Knight 3,6.1,2004,994798
+Forrest Gump 11,6.1,2011,563427
+Saving Private Ryan 7,6.1,2024,901489
+Avengers: Infinity War 12,6.1,2024,786173
+A Beautiful Mind 12,6.1,1986,170784
+Gladiator 18,6.1,2000,925087
+Inside Out 20,6.1,2004,574856
+Goodfellas 16,6.1,2000,429821
+Forrest Gump 3,6.1,2015,441830
+WALL·E 5,6.1,2022,743859
+La La Land 2,6.1,2004,97681
+Parasite 5,6.1,2024,401513
+Inside Out 15,6.1,1986,971989
+The Big Short 20,6.0,2007,511136
+City of God 10,6.0,2001,929311
+WALL·E 16,6.0,2006,809344
+The Lord of the Rings: The Return of the King 15,6.0,1988,194447
+Avengers: Endgame 16,6.0,2012,453155
+The Shawshank Redemption 5,6.0,1984,382307
+A Beautiful Mind 10,6.0,2000,248898
+The Shining 15,6.0,2019,763164
+1917 17,6.0,2005,462743
+Saving Private Ryan 1,6.0,2019,789166
+Inception 12,6.0,2006,143586
+Goodfellas 1,6.0,2021,481632
+Interstellar 4,5.9,1992,76963
+Knives Out 8,5.9,1980,587546
+Se7en 13,5.9,2024,535481
+The Lord of the Rings: The Return of the King 1,5.9,1982,47561
+Spirited Away 16,5.9,2022,225329
+Inside Out 4,5.9,1990,192264
+Pulp Fiction 9,5.9,1982,124488
+Braveheart 19,5.8,2001,324815
+Logan 6,5.8,2004,649313
+Oldboy 1,5.8,1991,109325
+The Lion King 17,5.8,1984,84390
+Up 12,5.8,1988,220261
+Django Unchained 16,5.8,1992,281279
+Avengers: Infinity War 4,5.8,1992,218138
+The Truman Show 6,5.8,2016,768131
+Inside Out 7,5.8,2000,639713
+Avengers: Endgame 10,5.8,1980,384558
+The Big Short 6,5.8,2005,129997
+The Big Short 1,5.8,2020,377741
+Up 1,5.8,1987,997800
+Saving Private Ryan 18,5.8,1994,365484
+The Lion King 9,5.8,2007,620768
+Terminator 2: Judgment Day 18,5.8,1995,163818
+Whiplash 1,5.8,1993,316956
+Alien 8,5.7,2022,715395
+Logan 16,5.7,2022,156162
+Alien 6,5.7,2015,952808
+The Lion King 13,5.7,2012,585866
+Black Panther 8,5.7,1990,639381
+The Wolf of Wall Street 19,5.7,1998,134452
+A Beautiful Mind 16,5.7,2024,540292
+The Departed 13,5.7,2009,218799
+Pulp Fiction 8,5.7,1982,913819
+Pulp Fiction 20,5.7,1998,957629
+Back to the Future 9,5.7,1981,614481
+The Shawshank Redemption 16,5.7,2005,350365
+Once Upon a Time in Hollywood 2,5.7,2005,875431
+1917 19,5.7,1996,173147
+Whiplash 15,5.7,1995,835770
+Logan 18,5.7,1993,179231
+The Shining 14,5.7,1993,728757
+Terminator 2: Judgment Day 8,5.7,1992,998171
+Avengers: Infinity War 13,5.7,1983,68882
+Avengers: Endgame 14,5.7,2020,610651
+A Beautiful Mind 8,5.6,2008,356785
+The Empire Strikes Back 8,5.6,1986,171436
+1917 9,5.6,1985,168157
+The Wolf of Wall Street 20,5.6,1989,766558
+Pulp Fiction 4,5.6,2020,897463
+Pulp Fiction 15,5.5,1990,333795
+The Truman Show 20,5.5,1993,538781
+Django Unchained 2,5.5,1992,249898
+Django Unchained 15,5.5,1991,759280
+The Truman Show 16,5.5,2001,128013
+Gladiator 2,5.5,1984,419479
+The Shining 18,5.5,2016,890113
+The Pianist 19,5.5,1981,552246
+Joker 14,5.5,2015,606781
+Goodfellas 12,5.5,2014,410682
+Inside Out 12,5.5,2000,896373
+Goodfellas 6,5.5,1995,861932
+The Empire Strikes Back 2,5.5,1989,854289
+Fight Club 13,5.4,2015,745917
+Inception 6,5.4,1984,254085
+Joker 11,5.4,2014,101938
+Knives Out 16,5.4,1994,994855
+The Shawshank Redemption 2,5.4,2010,733147
+Fight Club 2,5.4,2009,59105
+Back to the Future 8,5.4,2013,776853
+Braveheart 14,5.4,2019,262818
+The Departed 12,5.4,1993,333407
+Interstellar 9,5.4,1982,149817
+Oldboy 15,5.3,2010,94290
+Up 3,5.3,2015,27529
+Coco 9,5.3,1995,532344
+Up 2,5.3,2022,624612
+Black Panther 12,5.3,1989,858955
+Se7en 2,5.3,1993,905154
+The Green Mile 8,5.3,1983,171044
+The Shining 12,5.3,2020,439208
+Inception 1,5.3,1980,906121
+Oldboy 13,5.3,1998,586885
+Se7en 9,5.3,2019,92523
+Spirited Away 11,5.3,1997,82245
+Joker 2,5.3,2000,854218
+Se7en 17,5.2,1982,745145
+Django Unchained 20,5.2,2000,877550
+The Green Mile 17,5.2,1998,902119
+Joker 16,5.2,1997,363425
+Alien 11,5.2,1997,254374
+Up 16,5.2,2001,853041
+Interstellar 17,5.2,2006,432369
+Joker 4,5.2,2002,48146
+The Pianist 13,5.2,1995,156161
+Avengers: Endgame 2,5.2,2017,855623
+Saving Private Ryan 8,5.2,2007,503605
+The Prestige 17,5.2,2021,184231
+Goodfellas 17,5.2,1990,822516
+The Dark Knight 1,5.2,1998,120398
+Whiplash 12,5.1,2017,793600
+Avengers: Endgame 12,5.1,2016,583793
+The Empire Strikes Back 9,5.1,2020,993403
+Whiplash 16,5.1,1980,276368
+Once Upon a Time in Hollywood 5,5.1,2020,545147
+The Silence of the Lambs 9,5.1,2013,211668
+Braveheart 18,5.1,2002,188933
+Goodfellas 5,5.1,2021,996126
+The Matrix 1,5.1,2007,585373
+Alien 7,5.1,2010,425762
+Gladiator 1,5.1,2006,15401
+Spirited Away 7,5.1,1997,306127
+The Empire Strikes Back 10,5.1,2007,460326
+City of God 5,5.1,2009,630241
+A Beautiful Mind 19,5.1,2012,751454
+Alien 15,5.1,2002,837533
+A Beautiful Mind 7,5.0,2024,587379
+Se7en 7,5.0,2006,778281
+The Matrix 16,5.0,2003,964940
+City of God 16,5.0,2015,193163
+Saving Private Ryan 5,5.0,2011,396031
+Spirited Away 1,5.0,1989,931766
+Gladiator 15,5.0,2020,708885
+The Departed 19,5.0,1988,493064
+The Dark Knight 12,5.0,2009,95782
+The Shawshank Redemption 4,5.0,1991,120629
+Blade Runner 2049 17,5.0,2019,547185
+Joker 12,5.0,1990,385570
+The Godfather 14,4.9,1980,628076
+Inception 4,4.9,2002,667380
+Up 14,4.9,2014,847994
+Joker 15,4.9,2006,797549
+The Dark Knight 2,4.9,2011,354639
+Oldboy 20,4.9,2018,916150
+The Pianist 1,4.9,2015,192225
+The Truman Show 5,4.9,2009,753882
+The Green Mile 5,4.9,2019,790299
+Gladiator 9,4.9,2024,145947
+Back to the Future 20,4.9,1996,104324
+The Lion King 16,4.9,1999,896184
+WALL·E 9,4.9,2006,774834
+The Godfather 9,4.9,2016,374310
+Django Unchained 17,4.9,2022,465023
+1917 7,4.8,2017,322270
+Avengers: Infinity War 11,4.8,2012,265109
+Back to the Future 19,4.8,2020,367766
+The Pianist 16,4.8,2008,224407
+Pulp Fiction 10,4.8,2016,969021
+The Pianist 14,4.8,2022,869786
+The Empire Strikes Back 14,4.8,1986,478375
+La La Land 19,4.8,2013,901756
+The Shawshank Redemption 19,4.8,1988,887716
+The Matrix 19,4.7,1990,338484
+The Big Short 11,4.7,2017,95834
+The Silence of the Lambs 4,4.7,2021,196023
+Gladiator 16,4.7,1997,290864
+The Shawshank Redemption 15,4.7,2014,728335
+Knives Out 14,4.7,1983,402246
+Se7en 8,4.7,1981,803029
+The Green Mile 14,4.7,1980,654504
+Pulp Fiction 11,4.7,2006,271690
+Knives Out 12,4.7,2008,345317
+Terminator 2: Judgment Day 2,4.7,1996,462232
+The Prestige 4,4.7,2022,486460
+The Pianist 9,4.7,1989,933994
+Blade Runner 2049 18,4.7,1989,228627
+The Silence of the Lambs 3,4.6,1993,454512
+Once Upon a Time in Hollywood 20,4.6,1992,934203
+Alien 4,4.6,1992,719981
+The Pianist 7,4.6,2013,81672
+The Lord of the Rings: The Return of the King 3,4.6,2009,785248
+Black Panther 16,4.6,2009,775188
+The Departed 5,4.6,2003,294222
+1917 18,4.6,1989,947785
+Blade Runner 2049 1,4.6,2007,90852
+The Shawshank Redemption 9,4.6,2000,402634
+Interstellar 10,4.6,1997,122595
+Blade Runner 2049 9,4.6,2006,235658
+The Shining 6,4.6,1981,809316
+The Green Mile 15,4.6,1984,624281
+Oldboy 2,4.5,2006,280624
+The Dark Knight 6,4.5,1981,949036
+Terminator 2: Judgment Day 20,4.5,1990,827804
+The Pianist 2,4.5,2001,228214
+Spirited Away 12,4.5,1990,974252
+Fight Club 10,4.5,1986,22918
+Joker 1,4.5,2024,651192
+Parasite 3,4.5,2007,140770
+Inception 9,4.5,1982,360908
+The Pianist 5,4.5,2010,37474
+The Departed 7,4.4,2020,512141
+Gladiator 19,4.4,2000,641505
+The Shining 8,4.4,2000,105891
+WALL·E 14,4.4,1993,698791
+The Green Mile 13,4.4,1988,82894
+Fight Club 14,4.4,1984,891105
+Avengers: Infinity War 3,4.4,1997,331221
+Knives Out 13,4.4,1990,953786
+Knives Out 9,4.4,1993,923698
+Django Unchained 1,4.4,2013,546427
+Once Upon a Time in Hollywood 11,4.4,2013,724264
+Black Panther 2,4.4,2000,79587
+The Pianist 3,4.4,1987,70523
+The Big Short 14,4.4,2019,733975
+The Shining 3,4.4,1986,358873
+The Silence of the Lambs 18,4.3,1998,982324
+The Wolf of Wall Street 8,4.3,1982,54523
+Black Panther 4,4.3,2001,989857
+The Lord of the Rings: The Return of the King 8,4.3,2011,750363
+Interstellar 13,4.3,1985,531929
+The Green Mile 7,4.3,2023,973046
+The Godfather 8,4.3,2001,371224
+The Truman Show 2,4.3,2003,145599
+The Big Short 16,4.2,1981,531708
+Logan 9,4.2,1988,928241
+Forrest Gump 19,4.2,1990,339704
+WALL·E 8,4.2,2017,400372
+The Shining 5,4.2,1988,343119
+The Departed 6,4.2,1988,28129
+La La Land 11,4.2,1984,395331
+Fight Club 20,4.2,2007,273709
+Coco 18,4.2,1997,204330
+The Truman Show 10,4.2,2014,694250
+The Matrix 17,4.1,1990,963262
+Inception 17,4.1,2016,97558
+Blade Runner 2049 16,4.1,1989,661185
+Saving Private Ryan 11,4.1,1983,412741
+Logan 2,4.1,2015,579295
+The Shawshank Redemption 11,4.1,1990,379339
+La La Land 3,4.1,1989,724952
+The Prestige 14,4.1,2000,925079
+Interstellar 12,4.1,1995,437933
+Once Upon a Time in Hollywood 17,4.1,1996,352958
+Django Unchained 18,4.1,2011,37442
+The Pianist 12,4.1,2020,517590
+Coco 6,4.1,2012,841340
+Interstellar 20,4.0,2014,538477
+Terminator 2: Judgment Day 1,4.0,2006,842664
+Logan 15,4.0,2006,497420
+WALL·E 10,4.0,1999,198686
+The Wolf of Wall Street 18,4.0,2024,727094
+The Silence of the Lambs 20,4.0,1989,701356
+Once Upon a Time in Hollywood 12,4.0,2013,660410
+The Departed 10,4.0,1991,720070
+Knives Out 2,4.0,1993,611976
+City of God 18,3.9,1981,732015
+Back to the Future 6,3.9,1988,54469
+WALL·E 12,3.9,1999,471160
+Avengers: Endgame 1,3.9,1983,203352
+Alien 14,3.9,1995,85682
+The Wolf of Wall Street 12,3.9,1996,494801
+Oldboy 10,3.9,1980,238397
+Inside Out 17,3.9,2018,539602
+Gladiator 5,3.9,2022,780612
+A Beautiful Mind 1,3.9,1986,341398
+1917 14,3.9,1992,59068
+Terminator 2: Judgment Day 19,3.9,1998,463412
+Forrest Gump 14,3.9,2003,382750
+Inception 14,3.9,2019,218891
+The Shining 13,3.8,2012,834311
+The Matrix 6,3.8,2006,119894
+Up 18,3.8,2019,528185
+Interstellar 6,3.8,2020,94731
+Whiplash 7,3.8,1998,635468
+Gladiator 17,3.8,2005,425511
+The Shawshank Redemption 18,3.8,1984,2176
+The Shining 9,3.8,2011,168642
+Whiplash 4,3.8,2001,249853
+1917 3,3.8,2008,959501
+Django Unchained 3,3.8,2012,750416
+A Beautiful Mind 9,3.8,1997,262764
+Logan 14,3.8,1999,275490
+Gladiator 12,3.8,1987,726292
+La La Land 13,3.7,1990,5722
+Gladiator 14,3.7,1985,905518
+City of God 11,3.7,1983,765339
+La La Land 15,3.7,2015,637413
+Saving Private Ryan 10,3.7,1992,531695
+Once Upon a Time in Hollywood 16,3.7,2018,556363
+The Dark Knight 18,3.7,2013,9271
+The Wolf of Wall Street 3,3.7,1994,745754
+The Silence of the Lambs 10,3.7,2006,252628
+The Green Mile 16,3.7,2017,702662
+Spirited Away 14,3.7,2009,302711
+Forrest Gump 13,3.7,1987,784652
+The Shawshank Redemption 7,3.6,2015,603725
+The Prestige 16,3.6,2015,412326
+Whiplash 5,3.6,2000,573498
+Once Upon a Time in Hollywood 7,3.6,2017,517484
+The Shawshank Redemption 8,3.5,1994,859580
+The Lord of the Rings: The Return of the King 16,3.5,2022,988687
+City of God 8,3.5,1995,710460
+Coco 13,3.5,1999,683223
+Blade Runner 2049 20,3.5,1989,273239
+The Lord of the Rings: The Return of the King 11,3.5,2006,752620
+Blade Runner 2049 11,3.5,2023,693921
+The Lion King 4,3.5,2013,661700
+Back to the Future 4,3.5,2012,223517
+A Beautiful Mind 13,3.5,1990,832858
+City of God 9,3.5,2020,684498
+City of God 7,3.4,2023,216259
+The Matrix 20,3.4,1982,57792
+Whiplash 13,3.4,1983,368303
+Oldboy 12,3.4,2018,581899
+Django Unchained 9,3.4,1996,285854
+Coco 12,3.4,1986,835065
+The Lord of the Rings: The Return of the King 20,3.4,2001,336711
+Saving Private Ryan 13,3.4,1988,958631
+The Departed 1,3.4,2024,219095
+1917 11,3.4,2002,880613
+Black Panther 13,3.4,1989,637214
+Joker 19,3.4,2023,197538
+Logan 17,3.4,2021,72406
+The Dark Knight 7,3.4,2024,519633
+Pulp Fiction 6,3.3,2007,817681
+Up 5,3.3,1993,295873
+The Lion King 12,3.3,1987,358369
+The Godfather 19,3.3,1987,666678
+The Lord of the Rings: The Return of the King 14,3.3,1998,302123
+The Wolf of Wall Street 9,3.3,2014,76294
+The Lion King 15,3.2,2022,236650
+Oldboy 9,3.2,2001,263699
+WALL·E 3,3.2,1994,957142
+City of God 1,3.2,1990,150405
+The Departed 11,3.2,2019,755724
+WALL·E 18,3.1,2020,222707
+Knives Out 19,3.1,1997,451831
+The Green Mile 4,3.1,1991,89096
+1917 1,3.1,2006,225123
+Once Upon a Time in Hollywood 10,3.1,1980,200960
+Inception 8,3.1,2000,784685
+A Beautiful Mind 6,3.1,2020,591456
+Logan 11,3.1,2014,798262
+The Empire Strikes Back 1,3.1,1993,386029
+Blade Runner 2049 13,3.1,2009,89877
+The Empire Strikes Back 20,3.1,1980,235128
+The Big Short 17,3.1,1989,179667
+The Silence of the Lambs 19,3.0,1986,589880
+The Godfather 16,3.0,2010,299997
+The Matrix 9,3.0,2016,399359
+Logan 10,3.0,1984,804016
+Goodfellas 7,3.0,2016,529451
+WALL·E 15,3.0,1989,26573
+La La Land 8,3.0,1981,607970
+Saving Private Ryan 14,3.0,1995,445141
+The Wolf of Wall Street 2,2.9,1984,125314
+Fight Club 5,2.9,1989,547359
+Logan 19,2.9,2009,246133
+The Dark Knight 5,2.9,2005,539463
+Knives Out 4,2.9,1981,557450
+The Prestige 11,2.9,1992,963841
+1917 4,2.9,1984,730240
+The Lord of the Rings: The Return of the King 6,2.9,2009,749409
+The Pianist 8,2.9,2024,515637
+The Lion King 20,2.8,2007,259973
+Saving Private Ryan 17,2.8,2018,993525
+Blade Runner 2049 19,2.8,2005,406644
+Terminator 2: Judgment Day 10,2.8,1993,363477
+Oldboy 3,2.8,2011,646657
+Alien 20,2.8,2023,324732
+The Prestige 19,2.8,2014,319195
+Pulp Fiction 18,2.8,2016,734965
+Avengers: Infinity War 9,2.8,1986,389519
+Knives Out 11,2.8,1982,867100
+Once Upon a Time in Hollywood 8,2.8,1980,99536
+The Lord of the Rings: The Return of the King 7,2.8,2019,551926
+Fight Club 8,2.8,1982,337821
+The Matrix 2,2.8,1991,223165
+Oldboy 18,2.7,1989,130394
+Inside Out 16,2.7,2015,931659
+Fight Club 6,2.7,2009,13706
+The Departed 14,2.7,2003,683630
+Black Panther 3,2.6,1991,718063
+Saving Private Ryan 3,2.6,2009,246603
+The Departed 3,2.6,2023,737119
+The Silence of the Lambs 14,2.6,1984,508377
+The Godfather 10,2.6,1984,661253
+Spirited Away 13,2.6,2000,291251
+Inside Out 10,2.6,1984,880707
+The Shining 11,2.6,1988,733106
+A Beautiful Mind 5,2.6,1999,424208
+Joker 17,2.5,2023,226202
+The Lion King 3,2.5,1981,643637
+Se7en 5,2.5,1998,369147
+The Lion King 5,2.5,1986,777278
+Logan 8,2.5,2020,766038
+1917 16,2.5,2016,489516
+Blade Runner 2049 10,2.5,1982,411432
+The Godfather 11,2.5,2019,755485
+Pulp Fiction 13,2.5,1998,204652
+The Matrix 18,2.5,1996,179589
+Interstellar 14,2.5,2016,817556
+The Truman Show 4,2.4,2020,848585
+The Empire Strikes Back 7,2.4,1989,976968
+Saving Private Ryan 2,2.4,1985,330298
+Se7en 19,2.4,2001,6290
+The Big Short 8,2.4,1981,990047
+Parasite 17,2.4,2020,405196
+Terminator 2: Judgment Day 9,2.4,1996,875164
+The Departed 2,2.4,1986,590132
+Avengers: Endgame 3,2.4,2007,138482
+Pulp Fiction 3,2.4,2022,367748
+WALL·E 20,2.4,2009,521671
+Blade Runner 2049 12,2.4,1988,250222
+WALL·E 1,2.3,1992,852099
+The Lord of the Rings: The Return of the King 5,2.3,2019,178556
+The Lord of the Rings: The Return of the King 4,2.3,2024,237402
+The Silence of the Lambs 5,2.3,2000,699502
+Black Panther 11,2.3,2020,594768
+Spirited Away 18,2.3,1990,627219
+The Silence of the Lambs 1,2.3,1991,911445
+The Departed 9,2.3,1989,157530
+Back to the Future 12,2.2,2001,872157
+Pulp Fiction 7,2.2,2014,924749
+Up 17,2.2,2015,620663
+Coco 15,2.2,2020,660016
+Parasite 8,2.2,2007,394049
+Braveheart 3,2.2,1981,351916
+Se7en 3,2.2,2022,266443
+The Lord of the Rings: The Return of the King 19,2.2,1999,349358
+Parasite 15,2.2,2019,528288
+The Shining 10,2.2,2012,349782
+Braveheart 10,2.2,2019,612732
+Joker 10,2.1,1999,19848
+WALL·E 13,2.1,1987,542658
+The Prestige 6,2.1,2005,227271
+The Departed 16,2.1,1990,300663
+Parasite 16,2.1,2014,194576
+Logan 5,2.1,1981,831647
+Inside Out 6,2.1,1980,556984
+The Big Short 5,2.1,2024,684093
+Avengers: Endgame 5,2.1,1998,450035
+Inception 20,2.1,1999,389128
+Parasite 4,2.1,2001,364504
+Coco 4,2.1,2005,661993
+Forrest Gump 2,2.1,2023,173519
+Pulp Fiction 5,2.1,2011,857805
+Coco 1,2.1,2003,111024
+Avengers: Infinity War 2,2.0,2012,680169
+Whiplash 2,2.0,2021,368070
+A Beautiful Mind 15,2.0,1991,368282
+The Empire Strikes Back 11,2.0,1991,519642
+Spirited Away 10,2.0,2018,4709
+The Shawshank Redemption 1,2.0,1980,318939
+The Departed 18,2.0,2020,942019
+Django Unchained 7,2.0,2013,328640
+The Silence of the Lambs 11,2.0,2009,347689
+Coco 16,2.0,2010,385634
+WALL·E 7,2.0,1989,436194
+Alien 1,2.0,2018,843313
+The Matrix 14,2.0,1980,315502
+The Wolf of Wall Street 7,1.9,2019,467582
+Spirited Away 19,1.9,1989,631141
+The Shawshank Redemption 14,1.9,2007,221556
+Avengers: Infinity War 5,1.9,2021,177384
+Knives Out 20,1.9,1999,816573
+1917 13,1.9,1982,385879
+City of God 13,1.9,2004,596193
+The Empire Strikes Back 13,1.9,2014,260793
+Braveheart 20,1.9,2000,735536
+The Big Short 9,1.8,2014,142860
+Black Panther 6,1.8,2005,875876
+La La Land 12,1.8,2001,379239
+The Shining 19,1.8,2003,475732
+The Shawshank Redemption 17,1.8,1984,276704
+The Big Short 18,1.8,2012,415625
+Se7en 10,1.8,1983,849338
+Back to the Future 18,1.8,2022,480262
+Oldboy 14,1.8,2021,340519
+Gladiator 7,1.8,2004,578331
+Se7en 1,1.8,2020,962626
+Fight Club 7,1.8,2006,575867
+Goodfellas 15,1.7,1988,507146
+Interstellar 2,1.7,2006,891565
+A Beautiful Mind 20,1.7,2021,963468
+Saving Private Ryan 4,1.7,1988,669431
+Parasite 11,1.7,2022,844899
+Saving Private Ryan 12,1.7,1985,595833
+The Lion King 18,1.7,2012,797882
+Goodfellas 13,1.7,2004,662259
+The Big Short 4,1.6,2013,326682
+City of God 19,1.6,1996,445009
+The Empire Strikes Back 6,1.6,2014,299378
+Alien 9,1.6,2019,439884
+The Big Short 13,1.6,1986,616385
+Inside Out 13,1.6,1986,445411
+The Lord of the Rings: The Return of the King 9,1.6,2007,507998
+The Big Short 2,1.6,1984,580081
+Once Upon a Time in Hollywood 18,1.6,2018,749644
+The Silence of the Lambs 12,1.6,2023,21527
+The Dark Knight 14,1.6,2023,385190
+La La Land 9,1.6,1996,173264
+Black Panther 15,1.6,2016,900339
+Forrest Gump 15,1.5,1995,744045
+Inside Out 14,1.5,2011,177123
+Whiplash 14,1.5,1989,471091
+Pulp Fiction 16,1.5,2024,792116
+Forrest Gump 20,1.5,2007,66022
+Se7en 6,1.5,1992,545476
+1917 6,1.5,1986,756529
+The Prestige 2,1.5,2013,679296
+Terminator 2: Judgment Day 11,1.5,1986,914773
+Interstellar 11,1.5,2003,56338
+La La Land 1,1.5,1993,653700
+The Godfather 3,1.5,2002,837358
+The Prestige 8,1.5,1997,4704
+Coco 3,1.5,2003,868966
+Joker 8,1.5,1985,732646
+Joker 3,1.5,2000,848478
+Whiplash 3,1.5,1998,423634
+1917 10,1.5,2005,92813
+Logan 1,1.5,2019,440684
+Inception 16,1.4,2008,428814
+Avengers: Infinity War 7,1.4,1986,290723
+The Shining 4,1.4,1998,255619
+Braveheart 4,1.4,2015,556333
+Avengers: Endgame 17,1.4,2018,154013
+The Truman Show 12,1.3,2011,721847
+Coco 2,1.3,2003,186606
+Inception 2,1.3,1981,68929
+The Truman Show 18,1.3,1993,953160
+Parasite 18,1.3,1990,110529
+Whiplash 19,1.3,2008,420891
+Logan 20,1.3,1992,53167
+Once Upon a Time in Hollywood 3,1.3,2020,717596
+The Lion King 14,1.3,1987,59095
+Logan 7,1.3,1988,396528
+Black Panther 20,1.3,1995,281721
+Saving Private Ryan 6,1.3,2015,785211
+Logan 4,1.3,1983,169593
+The Matrix 8,1.2,1995,547117
+Pulp Fiction 17,1.2,1983,38773
+The Green Mile 12,1.2,1999,137919
+WALL·E 4,1.2,2024,422627
+Inside Out 11,1.2,1997,221875
+The Lord of the Rings: The Return of the King 17,1.2,2003,227297
+Joker 6,1.2,1988,874112
+City of God 20,1.2,2018,116070
+The Dark Knight 11,1.2,1980,803476
+Whiplash 6,1.2,2007,719199
+The Shawshank Redemption 13,1.2,2005,373150
+Inside Out 2,1.1,2003,268033
+Gladiator 20,1.1,2016,770125
+Spirited Away 6,1.1,1993,11226
+Joker 7,1.1,2013,926836
+The Big Short 7,1.1,1992,790583
+Fight Club 19,1.1,1982,509660
+Fight Club 18,1.1,1992,407262
+The Godfather 4,1.0,2019,299655
+La La Land 5,1.0,2008,297009
+WALL·E 2,1.0,2006,964207
+The Lord of the Rings: The Return of the King 12,1.0,2011,276057
+Once Upon a Time in Hollywood 19,1.0,1980,886131
+Back to the Future 15,1.0,1991,928300

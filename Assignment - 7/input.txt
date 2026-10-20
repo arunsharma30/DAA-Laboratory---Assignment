@@ -1,0 +1,23 @@
+5
+DAA
+DBMS
+OS
+CN
+Maths
+6
+2
+1 2
+2
+1 3
+2
+2 3
+2
+3 4
+2
+4 5
+2
+1 5
+3
+RoomA 60
+RoomB 40
+RoomC 30

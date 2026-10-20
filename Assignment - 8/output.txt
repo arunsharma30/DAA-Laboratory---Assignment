@@ -1,0 +1,16 @@
+    ===== SWIFTSHIP TSP BRANCH AND BOUND =====
+Enter number of cities: 5
+
+Enter the cost matrix (5 x 5):
+Enter -1 if a direct route does not exist.
+0 10 8 9 7
+10 0 10 5 6
+8 10 0 8 9
+9 5 8 0 6
+7 6 9 6 0
+
+Enter starting city (0 to 4): 0
+
+===== TSP OPTIMAL SOLUTION =====
+Minimum Tour Cost: 34
+Optimal Tour: 0 -> 2 -> 3 -> 1 -> 4 -> 0

@@ -12,8 +12,6 @@ struct Transaction {
     long long timestamp;
 };
 
-// Parse dates such as 12/26/2023 12:32
-// and 08-05-2023 00:00
 long long parseTimestamp(const string& s) {
     int month, day, year, hour, minute;
     char sep1, sep2, colon;
@@ -26,7 +24,6 @@ long long parseTimestamp(const string& s) {
         return 0;
     }
 
-    // Reparse reliably using separate date and time parts.
     size_t pos = s.find(' ');
     if (pos == string::npos) return 0;
 
@@ -50,7 +47,7 @@ long long parseTimestamp(const string& s) {
          + hour * 100LL + minute;
 }
 
-// Read complete CSV records, including quoted multiline fields.
+
 bool readCSVRecord(istream& in, vector<string>& fields) {
     fields.clear();
     string field;
@@ -110,7 +107,6 @@ string writeCSVRecord(const vector<string>& fields) {
     return result;
 }
 
-// Merge two sorted sections of the array.
 void merge(vector<Transaction>& a, int left,
            int mid, int right) {
     vector<Transaction> temp;
@@ -135,7 +131,6 @@ void merge(vector<Transaction>& a, int left,
     }
 }
 
-// Merge Sort: O(n log n)
 void mergeSort(vector<Transaction>& a,
                int left, int right) {
     if (left >= right) return;

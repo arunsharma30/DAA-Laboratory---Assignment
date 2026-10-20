@@ -1,0 +1,25 @@
+===== EMERGENCY RELIEF SUPPLY DISTRIBUTION =====
+Enter number of items: 3
+
+Enter item details:
+Format: Name Weight Utility Divisible(1=Yes, 0=No)
+
+Item 1: Medicine 5 50 0
+
+Item 2: Food 10 30 1
+
+Item 3: Water 20 20 1
+
+Enter boat capacity (kg): 17
+
+===== OPTIMAL RELIEF DISTRIBUTION =====
+Item           Weight      Utility     Taken (kg)     Value Obtained
+------------------------------------------------------------------
+Medicine       5.00        50.00       5.00           50.00
+Food           10.00       30.00       10.00          30.00
+Water          20.00       20.00       2.00           2.00
+
+Boat Capacity: 17.00 kg
+Used Capacity: 17.00 kg
+Remaining Capacity: 0.00 kg
+Maximum Total Utility: 82.00

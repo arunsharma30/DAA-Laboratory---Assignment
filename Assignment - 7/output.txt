@@ -1,6 +1,7 @@
 UNIVERSITY EXAM TIMETABLE SCHEDULER
 
-Enter number of courses: 5
+Enter number of courses: 
+5
 Enter course name: DAA
 Enter course name: DBMS
 Enter course name: OS
@@ -22,25 +23,32 @@ Number of courses for student 6: 2
 Enter course indexes (1 to 5): 1 5
 
 Enter number of rooms: 3
-Enter room name and capacity: RoomA 60
+Enter room name and capacity: RoomA 30
 Enter room name and capacity: RoomB 40
-Enter room name and capacity: RoomC 30
+Enter room name and capacity: RoomC 60
 
+===== EXAM TIMETABLE =====
+Number of courses: 5
 Number of exam slots used: 3
 
-Course Conflict Graph:
+Slot 1 [BLUE]: DAA, CN
+Slot 2 [GREEN]: OS, Maths
+Slot 3 [RED]: DBMS
+
+===== COURSE CONFLICT GRAPH =====
 DAA: DBMS OS Maths 
 DBMS: DAA OS 
 OS: DAA DBMS CN 
 CN: OS Maths 
 Maths: DAA CN 
 
-FINAL EXAM TIMETABLE
-
-Course         Time Slot      Room           Students       
+===== FINAL TIMETABLE WITH ROOMS =====
+Course         Time Slot (Colour)  Room           Students  
 ------------------------------------------------------------
-DAA            Slot 1         RoomC          3              
-DBMS           Slot 3         RoomC          2              
-OS             Slot 2         RoomC          3              
-CN             Slot 1         RoomB          2              
-Maths          Slot 2         RoomB          2
+DAA            BLUE                RoomA          3         
+DBMS           RED                 RoomA          2         
+OS             GREEN               RoomA          3         
+CN             BLUE                RoomB          2         
+Maths          GREEN               RoomB          2         
+
+Conflict check: PASS

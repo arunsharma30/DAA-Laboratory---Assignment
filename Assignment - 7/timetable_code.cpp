@@ -24,6 +24,21 @@ class Timetable {
     vector<Room> rooms;
     vector<vector<int>> graph;
 
+    vector<string> colorNames = {
+        "", "BLUE", "GREEN", "RED", "ORANGE",
+        "PURPLE", "CYAN", "MAGENTA", "YELLOW",
+        "PINK", "BROWN", "GOLD", "TEAL"
+    };
+
+    string getColorName(int color) {
+        int number = color + 1;
+
+        if (number < (int)colorNames.size())
+            return colorNames[number];
+
+        return "COLOUR_" + to_string(number);
+    }
+
 public:
     Timetable(vector<Course> c, vector<Room> r) {
         courses = c;
@@ -40,7 +55,7 @@ public:
 
                 for (int s : courses[i].students) {
                     if (find(courses[j].students.begin(),
-                              courses[j].students.end(), s)
+                             courses[j].students.end(), s)
                         != courses[j].students.end()) {
                         conflict = true;
                         break;
@@ -62,7 +77,9 @@ public:
             order[i] = i;
 
         sort(order.begin(), order.end(), [&](int a, int b) {
-            return graph[a].size() > graph[b].size();
+            if (graph[a].size() != graph[b].size())
+                return graph[a].size() > graph[b].size();
+            return a < b;
         });
 
         int maxColor = -1;
@@ -137,9 +154,9 @@ public:
                 }
 
                 if (!assigned) {
-                    cout << "Room allocation failed for course "
+                    cout << "\nRoom allocation failed for course "
                          << courses[exam].name
-                         << ". Add a suitable room or use more slots.\n";
+                         << ". Add a suitable room.\n";
                     return false;
                 }
             }
@@ -149,7 +166,7 @@ public:
     }
 
     void printConflicts() {
-        cout << "\nCourse Conflict Graph:\n";
+        cout << "\n===== COURSE CONFLICT GRAPH =====\n";
 
         for (int i = 0; i < n; i++) {
             cout << courses[i].name << ": ";
@@ -161,26 +178,64 @@ public:
         }
     }
 
+    void printSlotSummary(int slots) {
+        cout << "\n===== EXAM TIMETABLE =====\n";
+        cout << "Number of courses: " << n << '\n';
+        cout << "Number of exam slots used: " << slots << "\n\n";
+
+        for (int slot = 0; slot < slots; slot++) {
+            cout << "Slot " << slot + 1 << " ["
+                 << getColorName(slot) << "]: ";
+
+            bool first = true;
+
+            for (int i = 0; i < n; i++) {
+                if (courses[i].color == slot) {
+                    if (!first)
+                        cout << ", ";
+
+                    cout << courses[i].name;
+                    first = false;
+                }
+            }
+
+            cout << '\n';
+        }
+    }
+
     void printTimetable() {
-        cout << "\n"
-             << left << setw(15) << "Course"
-             << setw(15) << "Time Slot"
+        cout << "\n===== FINAL TIMETABLE WITH ROOMS =====\n";
+
+        cout << left << setw(15) << "Course"
+             << setw(20) << "Time Slot (Colour)"
              << setw(15) << "Room"
-             << setw(15) << "Students" << '\n';
+             << setw(10) << "Students" << '\n';
 
         cout << string(60, '-') << '\n';
 
         for (const auto &c : courses) {
             cout << left << setw(15) << c.name
-                 << setw(15) << ("Slot " + to_string(c.color + 1));
+                 << setw(20) <<
+                    (getColorName(c.color));
 
             if (c.room != -1)
                 cout << setw(15) << rooms[c.room].name;
             else
                 cout << setw(15) << "Unassigned";
 
-            cout << setw(15) << c.students.size() << '\n';
+            cout << setw(10) << c.students.size() << '\n';
         }
+    }
+
+    bool checkConflicts() {
+        for (int u = 0; u < n; u++) {
+            for (int v : graph[u]) {
+                if (courses[u].color == courses[v].color)
+                    return false;
+            }
+        }
+
+        return true;
     }
 };
 
@@ -270,15 +325,16 @@ int main() {
 
     int slots = timetable.greedyColoring();
 
-    cout << "\nNumber of exam slots used: "
-         << slots << '\n';
-
+    timetable.printSlotSummary(slots);
     timetable.printConflicts();
 
-    if (timetable.allocateRooms()) {
-        cout << "\nFINAL EXAM TIMETABLE\n";
+    if (timetable.allocateRooms())
         timetable.printTimetable();
-    }
+
+    if (timetable.checkConflicts())
+        cout << "\nConflict check: PASS\n";
+    else
+        cout << "\nConflict check: FAIL\n";
 
     return 0;
 }

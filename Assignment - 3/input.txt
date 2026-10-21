@@ -1,5 +1,7 @@
-3
-Medicine 5 50 0
-Food 10 30 1
-Water 20 20 1
-17
+5
+Medical_Kits 10 100 1
+Infant_Formula 5 50 1
+Drinking_Water 30 90 1
+Food_Packets 20 60 1
+Blankets 15 45 0
+20

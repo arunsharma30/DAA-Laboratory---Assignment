@@ -1,7 +1,7 @@
 5
-Medicine 3 40
-Food 4 50
-Water 2 30
-Blanket 5 60
-FirstAid 1 20
+Medicine 3 40 1
+Food 4 50 2
+Water 2 30 2
+Blanket 5 60 3
+FirstAid 1 20 1
 10

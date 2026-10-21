@@ -16,15 +16,16 @@ struct Item {
     double obtainedValue = 0;
 };
 
-bool compareRatio(const Item& a, const Item& b) {
-    return a.ratio > b.ratio;
+bool compareItems(const Item& a, const Item& b) {
+    if (a.ratio != b.ratio)
+        return a.ratio > b.ratio;
+
+    return a.name < b.name;
 }
 
 int main() {
     int n;
     double W;
-
-    cout << "===== EMERGENCY RELIEF SUPPLY DISTRIBUTION =====\n";
 
     cout << "Enter number of items: ";
     cin >> n;
@@ -40,7 +41,6 @@ int main() {
     cout << "Format: Name Weight Utility Divisible(1=Yes, 0=No)\n";
 
     for (int i = 0; i < n; i++) {
-        cout << "\nItem " << i + 1 << ": ";
         cin >> items[i].name
             >> items[i].weight
             >> items[i].value
@@ -54,11 +54,10 @@ int main() {
             return 1;
         }
 
-        items[i].ratio =
-            items[i].value / items[i].weight;
+        items[i].ratio = items[i].value / items[i].weight;
     }
 
-    cout << "\nEnter boat capacity (kg): ";
+    cout << "\nEnter maximum weight capacity of the boat (in kg): ";
     cin >> W;
 
     if (!cin || W < 0) {
@@ -67,65 +66,72 @@ int main() {
     }
 
     // Sort by descending utility-to-weight ratio
-    sort(items.begin(), items.end(), compareRatio);
-
-    double remainingCapacity = W;
-    double totalValue = 0;
-
-    // Greedy Fractional Knapsack
-    for (int i = 0; i < n; i++) {
-        if (remainingCapacity <= 0)
-            break;
-
-        if (items[i].weight <= remainingCapacity) {
-            // Take the full item
-            items[i].takenWeight = items[i].weight;
-            items[i].obtainedValue = items[i].value;
-
-            remainingCapacity -= items[i].weight;
-            totalValue += items[i].obtainedValue;
-        }
-        else if (items[i].divisible) {
-            // Take only the available fraction
-            items[i].takenWeight = remainingCapacity;
-
-            double fraction =
-                remainingCapacity / items[i].weight;
-
-            items[i].obtainedValue =
-                fraction * items[i].value;
-
-            totalValue += items[i].obtainedValue;
-            remainingCapacity = 0;
-        }
-        // If indivisible and it does not fit, skip it.
-    }
+    sort(items.begin(), items.end(), compareItems);
 
     cout << fixed << setprecision(2);
 
-    cout << "\n===== OPTIMAL RELIEF DISTRIBUTION =====\n";
+    cout << "\nSorted Items (by Value/Weight):\n";
     cout << left
-         << setw(15) << "Item"
-         << setw(12) << "Weight"
-         << setw(12) << "Utility"
-         << setw(15) << "Taken (kg)"
-         << "Value Obtained\n";
-
-    cout << string(66, '-') << '\n';
+         << setw(22) << "Item"
+         << setw(10) << "Weight"
+         << setw(10) << "Value"
+         << setw(15) << "Value/Weight"
+         << setw(15) << "Type" << '\n';
 
     for (const auto& item : items) {
         cout << left
-             << setw(15) << item.name
-             << setw(12) << item.weight
-             << setw(12) << item.value
-             << setw(15) << item.takenWeight
-             << item.obtainedValue << '\n';
+             << setw(22) << item.name
+             << setw(10) << item.weight
+             << setw(10) << item.value
+             << setw(15) << item.ratio
+             << (item.divisible ? "Divisible" : "Indivisible")
+             << '\n';
     }
 
-    cout << "\nBoat Capacity: " << W << " kg\n";
-    cout << "Used Capacity: " << W - remainingCapacity << " kg\n";
-    cout << "Remaining Capacity: " << remainingCapacity << " kg\n";
-    cout << "Maximum Total Utility: " << totalValue << '\n';
+    double remainingCapacity = W;
+    double totalValue = 0;
+    double totalWeight = 0;
+
+    // Greedy selection
+    for (auto& item : items) {
+        if (remainingCapacity <= 0)
+            break;
+
+        if (item.weight <= remainingCapacity) {
+            item.takenWeight = item.weight;
+            item.obtainedValue = item.value;
+        }
+        else if (item.divisible) {
+            item.takenWeight = remainingCapacity;
+            item.obtainedValue =
+                (item.takenWeight / item.weight) * item.value;
+        }
+        else {
+            continue;
+        }
+
+        remainingCapacity -= item.takenWeight;
+        totalWeight += item.takenWeight;
+        totalValue += item.obtainedValue;
+    }
+
+    cout << "\nItems selected for transport:\n";
+
+    for (const auto& item : items) {
+        if (item.takenWeight > 0) {
+            cout << " - " << item.name
+                 << ": " << item.takenWeight << " kg"
+                 << ", Utility = " << item.obtainedValue
+                 << ", Type = "
+                 << (item.divisible ? "Divisible" : "Indivisible")
+                 << '\n';
+        }
+    }
+
+    cout << "\n===== Final Report =====\n";
+    cout << "Total weight carried: " << totalWeight << " kg\n";
+    cout << "Total utility value carried: "
+         << totalValue << " units\n";
 
     return 0;
 }

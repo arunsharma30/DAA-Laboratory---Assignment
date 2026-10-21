@@ -1,25 +1,29 @@
 ===== DISASTER RELIEF RESOURCE ALLOCATION =====
 Enter number of items: 5
 
-Enter item details (Name Weight Utility):
-Item 1: Medicine 3 40
-Item 2: Food 4 50
-Item 3: Water 2 30
-Item 4: Blanket 5 60
-Item 5: FirstAid 1 20
+Enter item details (Name Weight Utility Priority):
+Item 1: Medicine 3 40 1
+Item 2: Food 4 50 2
+Item 3: Water 2 30 2
+Item 4: Blanket 5 60 3
+Item 5: FirstAid 1 20 1
 
 Enter truck capacity (kg): 10
 
 ===== OPTIMAL RELIEF ALLOCATION =====
-Item           Weight (kg)    Utility
-----------------------------------------
-Medicine       3              40
-Food           4              50
-Water          2              30
-FirstAid       1              20
+Item           Weight (kg)    Utility     Priority
+----------------------------------------------------
+Medicine       3              40          1
+Food           4              50          2
+Water          2              30          2
+FirstAid       1              20          1
 
 Maximum Total Utility: 140
 Total Weight Used: 10 kg
 Remaining Capacity: 0 kg
 
-Selected Items: Medicine, Food, Water, FirstAid
+Selected Items:
+Medicine | Utility: 40 | Priority: 1
+Food | Utility: 50 | Priority: 2
+Water | Utility: 30 | Priority: 2
+FirstAid | Utility: 20 | Priority: 1
